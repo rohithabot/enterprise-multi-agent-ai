@@ -1,0 +1,38 @@
+{
+  "total_tests": 3,
+  "passed": 3,
+  "failed": 0,
+  "pass_rate": 100.0,
+  "results": [
+    {
+      "question": "How many annual leave days do employees receive?",
+      "expected_agent": "hr",
+      "actual_agent": "hr",
+      "answer": "Employees receive 20 days of paid annual leave per year.",
+      "routing_passed": true,
+      "answer_passed": true,
+      "passed": true,
+      "response_time_seconds": 8.26
+    },
+    {
+      "question": "Which department does Rahul Sharma work in?",
+      "expected_agent": "employee",
+      "actual_agent": "employee",
+      "answer": "Rahul Sharma works in the \"Engineering\" department.",
+      "routing_passed": true,
+      "answer_passed": true,
+      "passed": true,
+      "response_time_seconds": 3.33
+    },
+    {
+      "question": "What is the company's annual leave policy?",
+      "expected_agent": "hr",
+      "actual_agent": "hr",
+      "answer": "According to the company's HR policies, employees receive 20 days of paid annual leave per year.",
+      "routing_passed": true,
+      "answer_passed": true,
+      "passed": true,
+      "response_time_seconds": 1.61
+    }
+  ]
+}

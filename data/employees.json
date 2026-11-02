@@ -1,0 +1,23 @@
+[
+  {
+    "employee_id": "EMP001",
+    "name": "Rahul Sharma",
+    "department": "Engineering",
+    "designation": "Software Engineer",
+    "location": "Bengaluru"
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Priya Reddy",
+    "department": "Human Resources",
+    "designation": "HR Manager",
+    "location": "Hyderabad"
+  },
+  {
+    "employee_id": "EMP003",
+    "name": "Arjun Kumar",
+    "department": "Finance",
+    "designation": "Financial Analyst",
+    "location": "Chennai"
+  }
+]
